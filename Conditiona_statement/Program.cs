@@ -14,7 +14,7 @@ namespace Conditiona_statement
                 switch (years_of_exp)
                 {
                     case 0:
-                        Console.WriteLine("Need lot of practice");
+                        Console.WriteLine("Need lot of practice ");
                         break;
                     case 1:
                         Console.WriteLine("Looks like you have little experience");
